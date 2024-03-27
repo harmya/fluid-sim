@@ -1,3 +1,3 @@
 fn main() {
-    println!("This is my fluid simulation project!");
+    println!("This fluid simulation");
 }
